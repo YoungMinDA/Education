@@ -1,6 +1,6 @@
 Preview
 ---
-**참가 소속**: (주)아이디어웨어 | 데이터분석가, 인턴
+**참가 소속**: (주)아이디어웨어 | Data Analyst, 인턴
 
 **교육 진행 Tool**: Slack, Tableau
 
